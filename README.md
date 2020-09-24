@@ -16,13 +16,23 @@ The reviews/feedback will be retrieved from different community sites (e-commerc
 The customer reviews in 'redmi6.csv' are extracted using python machine learning library 'BeautifulSoup'.The dataset contains around 200 plus reviews with 280 rows and 7 columns which is extracted from "www.amazon.com". Customer's sentiment analysis is done using various ML libraries such as pandas, numpy, matplotlib, seaborn etc. Classification  and  Prediction is done using Support Vector Machine (SVM).
 
 # Lexicon
+ 
+The Lexicon file contains the list of all positive, negative and neutral words which are labelled as 1, -1, 0. It is used to calculate the score for positive, negative and neutral reviews. 
 
 
+# Support Vector Machine
 
-![](https://github.com/abhishekparve/Customer-Feedback-Analysis-Using-Machine-Learning/blob/master/Images/neg_pie.png)
+In machine learning, support vector machines (SVM) are supervised learning models with associated learning algorithms that analyses data used for classification and regression analysis.
+In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.
+
+
+# Visualization Results:
+
+
+![Pie Chart For Negative Reviews](https://github.com/abhishekparve/Customer-Feedback-Analysis-Using-Machine-Learning/blob/master/Images/neg_pie.png)
 
  
-
+# 
 
  
 
