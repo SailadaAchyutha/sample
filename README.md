@@ -17,7 +17,7 @@ The customer reviews in 'redmi6.csv' are extracted using python machine learning
 
 # 
 
-![](Customer-Feedback-Analysis-Using-Machine-Learning/Images/neg_pie.png)
+![](https://github.com/abhishekparve/Customer-Feedback-Analysis-Using-Machine-Learning/blob/master/Images/neg_pie.png)
 
  
 
