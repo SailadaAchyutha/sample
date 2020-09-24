@@ -15,7 +15,9 @@ The reviews/feedback will be retrieved from different community sites (e-commerc
 
 The customer reviews in 'redmi6.csv' are extracted using python machine learning library 'BeautifulSoup'.The dataset contains around 200 plus reviews with 280 rows and 7 columns which is extracted from "www.amazon.com". Customer's sentiment analysis is done using various ML libraries such as pandas, numpy, matplotlib, seaborn etc. Classification  and  Prediction is done using Support Vector Machine (SVM).
 
-# 
+# Lexicon
+
+
 
 ![](https://github.com/abhishekparve/Customer-Feedback-Analysis-Using-Machine-Learning/blob/master/Images/neg_pie.png)
 
